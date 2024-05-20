@@ -81,4 +81,4 @@ You can even add it to modpacks just allow content modifications on your modpack
 
 Just make sure your friends have the same mods as you and have FUN!
 
-
+P.S. This is not an end all be all. check mod compatibility
