@@ -22,7 +22,9 @@ The more popular otptions are always [Fabric](https://fabricmc.net/) and [Forge]
 But there are more[...](https://ftb.fandom.com/wiki/Category:Modloaders)
 These two are used the most and have different purposes, which means there is no best one. It really just depends on what you want. Forge is more heavy loaded and can handle more mods. While Fabric is more proformace based is faster loading. 
 
-![fabric](https://github.com/hollowshield/minecraftmodding/assets/70131064/76690140-3577-452e-9587-af6e74e992b0)
+<img src="https://github.com/hollowshield/minecraftmodding/assets/70131064/76690140-3577-452e-9587-af6e74e992b0" width="200" height="100">
+
+
 ![th-2153016999](https://github.com/hollowshield/minecraftmodding/assets/70131064/07bbe05e-b22b-49db-b274-9c0115470b38)
 
 
