@@ -8,8 +8,8 @@ This guide is meant to guide you in not only modding with modpacks and individua
 This guide will be split into multiple sections for your ease of access. I will split it:
 1. [Introduction to modding in minecraft](#user-content-introduction-to-modding-in-minecraft)
 2. [Modpacks](#user-content-modpacks)
-3. Playing with friends
-4. Extras
+3. [Playing with friends](user-content-playing-with-friends)
+4. [Extras](#)
 
 ---
 
