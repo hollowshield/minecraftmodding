@@ -26,5 +26,11 @@ These two are used the most and have different purposes, which means there is no
 
 <img src="https://github.com/hollowshield/minecraftmodding/assets/70131064/07bbe05e-b22b-49db-b274-9c0115470b38" width="200">
 
+After intalling a mod loader make sure you click on the installer to set the mods folder to \AppData\Roaming\.minecraft
+On there you will put your mods
+if you need to find mods there are couple of websites you can use.
+The two most popular are [Modrinth](https://modrinth.com/) and [CurseForge](https://www.curseforge.com/minecraft)
+
+
 
 ***
