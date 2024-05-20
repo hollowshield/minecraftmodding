@@ -7,7 +7,7 @@ Minecraft modding is very simple. Just make sure you don't download from the wro
 This guide is meant to guide you in not only modding with modpacks and individual mods but to even play with friends without buying a server. Minecraft modding is meant to be free so do not listen to any ads saying to buy a server so you can play with friends. 
 This guide will be split into multiple sections for your ease of access. I will split it:
 1. [Introduction to modding in minecraft](#user-content-introduction-to-modding-in-minecraft)
-2. Modpacks
+2. [Modpacks](#)
 3. Playing with friends
 4. Extras
 
