@@ -10,4 +10,4 @@ This guide will be split into multiple sections for your ease of access. I will 
 3. Playing with friends
 4. Extras
 ---
-### Introduction to modding in minecraft {#intro}
+### Introduction to modding in minecraft (#intro)
