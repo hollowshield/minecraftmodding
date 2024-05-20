@@ -32,5 +32,23 @@ if you need to find mods there are couple of websites you can use.
 The two most popular are [Modrinth](https://modrinth.com/) and [CurseForge](https://www.curseforge.com/minecraft)
 
 
+Now you are set to play
+Open up the mincraft launcher
+Click instilations
+You should see your loader's intallation there
+if not click new intallation and type out the loader
+
+![Screenshot 2024-05-20 145154](https://github.com/hollowshield/minecraftmodding/assets/70131064/eed47e8c-9728-4dd3-8d85-0e36179133ba)
+![Screenshot 2024-05-20 145259](https://github.com/hollowshield/minecraftmodding/assets/70131064/9a152a3b-84f0-4be1-b8ff-1d5c8908b1b3)
+
+now enjoy 
+
 
 ***
+
+
+### Modpacks
+
+If moding could be any easier then modpack would be your solution. 
+
+
